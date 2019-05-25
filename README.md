@@ -1,2 +1,0 @@
-# PrimerRepo
-archivos de proyecto
